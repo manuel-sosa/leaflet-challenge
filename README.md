@@ -1,5 +1,8 @@
 # **Module 15 Challenge: USGS Earthquake Visualization Challenge** :bar_chart: 
 
+## Link to Challenge code
+[(static/js/logic.js)] (https://github.com/manuel-sosa/leaflet-challenge/blob/main/static/js/logic.js)
+
 ## *Background* :globe_with_meridians:
 #### This initiative focuses on enhancing the visualization of global earthquake data collected by the United States Geological Survey (USGS) to improve public and governmental awareness of seismic activities and their impacts.
 
